@@ -1,0 +1,2 @@
+# Neural_Networks_Forest_Fire_Classification
+PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
