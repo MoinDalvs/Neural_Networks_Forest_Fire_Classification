@@ -24,3 +24,21 @@ Data Description:
 * **wind**: Wind speed in km/h: 0.40 to 9.40 
 * **rain**: Outside rain in mm/m2 : 0.0 to 6.4 
 * **area**: The burned area of the forest (in ha): 0.00 to 1090.84 
+
+## Author
+
+<table>
+<tr>
+<td>
+     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180"/>
+     
+     moindalvs@gmail.com
+
+<p align="center">
+<a href = "https://github.com/MoinDalvs"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/DalvsHubot"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/moin-dalvi-277b0214a//"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+  </table>
